@@ -30,6 +30,6 @@
     "react"
   ],
   "devDependencies": {
-    "@angular/cli": "^1.7.4"
+    "@angular/cli": "^14.2.8"
   }
 }
